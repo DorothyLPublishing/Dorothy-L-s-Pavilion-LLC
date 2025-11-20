@@ -1,0 +1,12 @@
+ dorothyls-pavilion/
+│
+├── index.html
+├── about.html
+├── contact.html
+│
+├── /assets
+│     ├── images/
+│     ├── css/
+│     └── js/
+│
+└── netlify.toml 
